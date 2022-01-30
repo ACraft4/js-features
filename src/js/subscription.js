@@ -16,5 +16,3 @@ const intervalId = setInterval(() => {
     promtCounter += 1;
 }, promt_delay); 
 
-console.log()
-
