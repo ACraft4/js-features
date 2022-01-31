@@ -7,7 +7,7 @@ const refs = {
     subscribeBtn: document.querySelector('button[data-subscribe]'),
 };
 
-const promt_delay = 1000; 
+const promt_delay = 15000; 
 const max_promt_attemts = 3; 
 let promtCounter = 0;
 let hasSubscribed = false; 
